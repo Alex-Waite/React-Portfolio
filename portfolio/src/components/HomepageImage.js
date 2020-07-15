@@ -4,7 +4,7 @@ function HomepageImage () {
     return (  
         <div class="col-md-5 col-sm-12 h-25">
             <div class="imgContainer">
-                <img class="alexPic" src="./assets/images/Rig2.png" alt="Picture of Alex" />
+                <img class="alexPic" src="./React-Portfolio/assets/images/Rig2.png" alt="Picture of Alex" />
             </div>
         </div>
       )

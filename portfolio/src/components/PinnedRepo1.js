@@ -7,7 +7,7 @@ function PinnedRepo1() {
             <div className="card">
                 <a href="https://alex-waite.github.io/PasswordGeneratorHomework/"
                     target="_blank" rel="noopener noreferrer">
-                    <img className="card-img-top" src="assets/images/passgen.png"
+                    <img className="card-img-top" src="./React-Portfolio/assets/images/passgen.png"
                         alt="PASSWORD GENERATOR screenshot" />
                 </a>
                 <div className="card-body">

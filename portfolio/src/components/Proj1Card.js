@@ -6,7 +6,7 @@ function Proj1Card() {
                                 <div className="container pfCardContainer">
                                     <div className="card">
                                         <a href="https://teamcabbn.github.io/GiphyBoggle/" target="_blank" rel="noopener noreferrer">
-                                            <img className="card-img-top" src="assets/images/giphy.png"
+                                            <img className="card-img-top" src="./React-Portfolio/assets/images/giphy.png"
                                                 alt="GIPHYBOGGLE screenshot" />
                                         </a>
                                         <div className="card-body">

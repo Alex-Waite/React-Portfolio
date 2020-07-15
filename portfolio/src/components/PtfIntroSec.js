@@ -21,7 +21,7 @@ function PtfIntroSec () {
                             </div>
                             <div className="col-md-4">
                                 <div className="statementPic">
-                                    <img className="statementImg" src="./assets/images/croppedrecent2.png"
+                                    <img className="statementImg" src="./React-Portfolio/assets/images/croppedrecent2.png"
                                         alt="Recent Photo Of Me!" />
                                 </div>
                             </div>

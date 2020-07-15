@@ -6,7 +6,7 @@ function Proj2Card() {
             <div className="container pfCardContainer">
             <div className="card">
                 <a href="https://wuber-wines.herokuapp.com/" target="_blank" rel="noopener noreferrer">
-                    <img className="card-img-top" src="assets/images/wuber.png"
+                    <img className="card-img-top" src="./React-Portfolio/assets/images/wuber.png"
                         alt="WUBER screenshot" />
                 </a>
                 <div className="card-body">

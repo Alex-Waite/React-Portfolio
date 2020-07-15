@@ -7,7 +7,7 @@ function PinnedRepo2() {
         <div className="container pfCardContainer">
             <div className="card">
                 <a href="https://secret-mountain-73457.herokuapp.com/" target="_blank" rel="noopener noreferrer">
-                    <img className="card-img-top" src="assets/images/notetaker.png"
+                    <img className="card-img-top" src="./React-Portfolio/assets/images/notetaker.png"
                         alt="NOTE TAKER screenshot" />
                 </a>
                 <div className="card-body">

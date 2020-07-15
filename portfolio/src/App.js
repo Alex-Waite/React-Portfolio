@@ -14,7 +14,7 @@ function App() {
   return (
     <div>
       <Navbar />
-      <BrowserRouter>        
+      <BrowserRouter basename="React-Portfolio">        
           <Switch>
             
             <Route exact path="/portfolio">

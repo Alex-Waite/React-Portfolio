@@ -1,5 +1,6 @@
 import React from "react"
 
+import AbtMeText from "../components/AbtMeText"
 import AbtMeImage from "../components/AbtMeImage"
 
 function Aboutme () {
@@ -8,6 +9,8 @@ function Aboutme () {
         <section class="section-1">
             <div class="container text-center">
                 <div class="row">
+
+                    <AbtMeText />
                     <AbtMeImage />                   
                     
                 </div>

@@ -7,7 +7,7 @@ function PinnedRepo3() {
         <div className="container pfCardContainer">
             <div className="card">
                 <a href="https://alex-waite.github.io/CodeQuizHomework/" target="_blank" rel="noopener noreferrer">
-                    <img className="card-img-top" src="assets/images/codequiz.png"
+                    <img className="card-img-top" src="./React-Portfolio/assets/images/codequiz.png"
                         alt="CODE-QUIZ screenshot" />
                 </a>
                 <div className="card-body">
