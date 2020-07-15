@@ -11,7 +11,7 @@ function PinnedRepo4() {
                         alt="PASSWORD GENERATOR screenshot" />
                 </a>
                 <div className="card-body">
-                    <h4>PASSWORD GENERATOR!</h4>
+                    <h4>WEATHER DASH!</h4>
                         <p className="card-text">I am proud of this project because it was a task I
                             remember feeling hopeless about, I was very new to Javascript and I
                             had

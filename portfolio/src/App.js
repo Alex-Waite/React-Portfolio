@@ -8,7 +8,7 @@ import Aboutme from "./pages/Aboutme.js"
 import Homepage from "./pages/Homepage.js"
 import Portfolio from "./pages/Portfolio.js"
 
-import {BrowserRouter as Switch, Route, BrowserRouter} from "react-router-dom";
+import {Switch, Route, BrowserRouter} from "react-router-dom";
 
 function App() {
   return (
@@ -16,12 +16,7 @@ function App() {
       <Navbar />
       <BrowserRouter>        
           <Switch>
-            <Route exact path="/">
-              <Homepage />
-            </Route>
-            <Route exact path="/home">
-              <Homepage />
-            </Route>
+            
             <Route exact path="/portfolio">
               <Portfolio />
             </Route>
@@ -30,6 +25,9 @@ function App() {
             </Route>
             <Route exact path="/contact">
               <Contact />
+            </Route>
+            <Route>
+              <Homepage />
             </Route>
           </Switch> 
         </BrowserRouter>   
